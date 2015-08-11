@@ -10,7 +10,7 @@ description: > # this means to ignore newlines until "email:"
 head_title: wnono.com
 email: wesley.chow@wnono.com
 #blog logo
-logo: "/assets/images/df_logo.jpg"
+logo: "/Blogs/assets/images/df_logo.jpg"
 # blog cover
 cover: "http://s.cn.bing.net/az/hprichbg/rb/HeartNebula_ZH-CN7750020667_1920x1080.jpg"
 
@@ -18,12 +18,12 @@ name: 'Wesley Chow'
 name_cn: '周凌'
 author: 'Wesley Chow'
 author_cn: '周凌'
-author_image: "/assets/images/author_me.jpg"
+author_image: "/Blogs/assets/images/author_me.jpg"
 
 paginate:	5
 
 url: "http://wnono.com" # the base hostname & protocol for your site
-baseurl: "/"
+baseurl: "/Blogs"
 
 # Comments System Setting
 commentsystem: duoshuo
@@ -66,16 +66,16 @@ social:
 
 menu:
   - title:  Home [主页]
-    url:  /
+    url:  /Blogs/
 
   - title: Blog [博客]
-    url: /blog
+    url: /Blogs/blog
 
   - title: Work [作品]
-    url: /work
+    url: /Blogs/work
 
   - title:  Me [我]
-    url:  /about
+    url:  /Blogs/about
 
 #  - icon:	google-plus
 #    url:	https://google.com/???
